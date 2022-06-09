@@ -1,3 +1,6 @@
+Kiwi
+JackFruit
+Lemon
 Apple
 Banana
 Grapes
